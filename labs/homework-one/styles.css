@@ -1,0 +1,14 @@
+#fortuneResponse {
+    padding: 20px;
+    background-color: #ede1ab;
+    height:10px;
+    width:fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+button {
+    margin: 10px 10px 10px 4px;
+    padding: 5px;
+}
